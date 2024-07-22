@@ -1,0 +1,17 @@
+body {
+background-color: pink;
+color: white;
+padding: 10px;
+}
+
+#image {
+float:left;
+}
+
+#description {
+float: right;
+}
+
+#reviews {
+clear: both;
+}
